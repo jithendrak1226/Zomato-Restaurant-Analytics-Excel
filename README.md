@@ -125,7 +125,7 @@ Additionally, the analysis shows that online delivery and table booking services
 
 ### Dashboard Snapshot
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard]images/dashboard.png
 
 ---
 
