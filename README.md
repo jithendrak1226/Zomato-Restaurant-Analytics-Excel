@@ -107,7 +107,7 @@ Interactive Excel dashboard containing KPI Cards, Pivot Charts, and Slicers.
 
 ### Relationship Diagram / Data Model
 
-![Data Model](Images/DataModel.png)
+![Data Model]images/data_model.png
 
 ---
 
