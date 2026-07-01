@@ -3,6 +3,8 @@
 > An interactive Excel dashboard built using Microsoft Excel to analyze restaurant distribution, customer ratings, pricing, cuisines, and service availability, enabling data-driven business insights through dynamic KPIs and visualizations.
 
 ---
+![Dashboard](images/dashboard.png)
+
 
 # Project Background
 
