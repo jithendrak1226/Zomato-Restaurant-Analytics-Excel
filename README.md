@@ -151,7 +151,7 @@ Several countries have relatively small restaurant representation.
 
 **Visualization**
 
-*(Insert Top Cities Chart Here)*
+![Country Analysis](images/Country_Analysis.png)
 
 ---
 
@@ -175,7 +175,7 @@ Customer ratings indicate opportunities for quality improvement.
 
 **Visualization**
 
-*(Insert Rating Distribution Chart Here)*
+![Ratings Analysis](images/Ratings.png)
 
 ---
 
@@ -199,7 +199,7 @@ Regional cuisines show opportunities for targeted marketing.
 
 **Visualization**
 
-*(Insert Cuisine Analysis Chart Here)*
+![Cuisine Analysis](images/PivotTable_Cuisine.png)
 
 ---
 
@@ -222,8 +222,7 @@ Most restaurants belong to Medium and High price categories.
 Pricing and service availability differ significantly across restaurant segments.
 
 **Visualization**
-
-*(Insert Price Bucket & Service Charts Here)*
+![Price Bucket Analysis](images/price_bucket.png)
 
 ---
 
