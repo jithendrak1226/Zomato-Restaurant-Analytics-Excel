@@ -199,7 +199,7 @@ Regional cuisines show opportunities for targeted marketing.
 
 **Visualization**
 
-![Cuisine Analysis](images/PivotTable_Cuisine.png)
+![Cuisine Analysis](images/cuisine_analysis.png)
 
 ---
 
